@@ -15,10 +15,14 @@ profile:
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
 ---
 
-Hi there! I’m Arshia, currently pursuing a PhD in Computer Science and Engineering at Michigan State University, with a Bachelor's degree in Computer Engineering from Sharif University of Technology.
+Hi! I’m Arshia Rafieioskouei, a second-year PhD student in Computer Science and Engineering at Michigan State University. I hold a Bachelor's degree in Computer Engineering from Sharif University of Technology.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on **causality**, specifically formalizing it using temporal logic to transform it into an SMT (Satisfiability Modulo Theories) problem. This approach allows me to deploy causality analysis in **Cyber-Physical Systems (CPS)** to uncover causal relationships between events. I’m also working on optimizing this process for better efficiency and exploring applications in **medicine**, **nanoscience**, and beyond.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+If you're interested in discussing **causality**—in any form—or if you have a dataset where you'd like to uncover causal relationships, feel free to contact me via [email](mailto:rafieios@msu.edu).
+
+Additionally, I’m actively seeking **internships** in fields such as **CPS**, **safety failures**, **formal methods**, and **verification**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV]().
+
