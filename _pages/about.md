@@ -6,7 +6,7 @@ subtitle: PhD Student in Computer Science at Michigan State University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>428 S Shaw Ln # 3320</p>
