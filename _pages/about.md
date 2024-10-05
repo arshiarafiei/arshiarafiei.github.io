@@ -24,5 +24,5 @@ My research focuses on **causality**, specifically formalizing it using temporal
 
 If you're interested in discussing **causality**—in any form—or if you have a dataset where you'd like to uncover causal relationships, feel free to contact me via [email](mailto:rafieios@msu.edu).
 
-Additionally, I’m actively seeking **internships** in fields such as **CPS**, **safety failures**, **formal methods**, and **verification**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV]().
+Additionally, I’m actively seeking **internships** in fields such as **CPS**, **safety failures**, **formal methods**, and **verification**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV](https://arshiarafiei.github.io/assets/pdf/CV.pdf).
 
