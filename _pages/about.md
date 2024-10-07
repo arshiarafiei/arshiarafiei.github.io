@@ -18,7 +18,7 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-Hi! I’m Arshia Rafieioskouei, a second-year PhD student in Computer Science and Engineering at Michigan State University. I hold a Bachelor's degree in Computer Engineering from Sharif University of Technology.
+Hi! I’m Arshia Rafieioskouei, a second-year PhD student in Computer Science and Engineering at Michigan State University, working under the supervision of **Dr. Borzoo Bonakdarpour** in the [TART Lab](https://www.cse.msu.edu/tart/). I hold a Bachelor's degree in Computer Engineering from Sharif University of Technology.
 
 My research focuses on **causality**, specifically formalizing it using temporal logic to transform it into an SMT (Satisfiability Modulo Theories) problem. This approach allows me to deploy causality analysis in **Cyber-Physical Systems (CPS)** to uncover causal relationships between events. I’m also working on optimizing this process for better efficiency and exploring applications in **medicine**, **nanoscience**, and beyond.
 
