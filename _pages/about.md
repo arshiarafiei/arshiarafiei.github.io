@@ -26,3 +26,6 @@ If you're interested in discussing **causality**—in any form—or if you have 
 
 Additionally, I’m actively seeking **internships** in fields such as **CPS**, **safety failures**, **formal methods**, and **verification**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV](https://arshiarafiei.github.io/assets/pdf/CV.pdf).
 
+
+> ### "The appearance of a cause always conveys the mind, by a customary transition, to the idea of the effect."
+> **– David Hume**
