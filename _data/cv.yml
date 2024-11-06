@@ -15,7 +15,7 @@
       description:
         - title: Research Fields
           contents:
-            - Actual Causality
+            - Causality
             - Cyber-physical Systems
     - title: BSc in Computer Engineering
       institution: Sharif University of Technology
@@ -24,4 +24,10 @@
         - title: Research Fields
           contents:
             - IoT
-            - Machine Learning 
+            - Machine Learning
+
+# - title: Hobbies
+#   type: list
+#   contents:
+#     - Backgammon
+#     - Reading Philosophy (Beginner)
