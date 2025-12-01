@@ -20,11 +20,11 @@ social: true # includes social icons at the bottom of the page
 
 Hi! I’m Arshia Rafieioskouei, a second-year PhD student in Computer Science and Engineering at Michigan State University, working under the supervision of **Dr. Borzoo Bonakdarpour** in the [TART Lab](https://www.cse.msu.edu/tart/). I hold a Bachelor's degree in Computer Engineering from Sharif University of Technology.
 
-My research focuses on **causality**, specifically formalizing it using temporal logic to transform it into an Satisfiability Modulo Theories (SMT) problem. This approach allows me to deploy causality analysis in **Cyber-Physical Systems (CPS)** to uncover causal relationships between events. I’m also working on optimizing this process for better efficiency and exploring applications in **medicine**, **nanoscience**, and beyond.
+My research focuses on **specification-based reinforcement learning** and **causality**, specifically formalizing causality using temporal logic to transform it into a Satisfiability Modulo Theories (SMT) problem. This approach allows me to deploy causality analysis in **Cyber-Physical Systems (CPS)** to uncover causal relationships between events, while using reinforcement learning guided by formal specifications to design safer and more reliable decision making in complex systems. I am also working on optimizing these techniques for better efficiency and exploring applications in **medicine**, **nanoscience**, and beyond.
 
 If you're interested in discussing **causality**—in any form—or if you have a dataset where you'd like to uncover causal relationships, feel free to contact me via [email](mailto:rafieios@msu.edu).
 
-Additionally, I’m actively seeking **internships** in fields such as **CPS**, **safety failures**, **formal methods**, and **verification**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV](https://arshiarafiei.github.io/assets/pdf/CV.pdf).
+Additionally, I’m actively seeking **internships** in fields such as **RL**, **safe Planning**, **formal methods**, and **CPS**. You can learn more about my work and experience on my [website](https://arshiarafiei.github.io/) or through my [CV](https://arshiarafiei.github.io/assets/pdf/CV.pdf).
 
 
 > ### "The appearance of a cause always conveys the mind, by a customary transition, to the idea of the effect."
